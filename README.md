@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
@@ -18,9 +18,7 @@ body{
     overflow:hidden;
     color:white;
 }
-
 /* Tela inicial */
-
 #bootScreen{
     position:fixed;
     width:100%;
@@ -55,9 +53,7 @@ body{
     from{width:0%;}
     to{width:100%;}
 }
-
 /* Interface principal */
-
 #mainInterface{
     display:none;
     width:100vw;
@@ -65,9 +61,7 @@ body{
     background:#050505;
     position:relative;
 }
-
 /* Scanner */
-
 .scanner{
     position:absolute;
     width:100%;
